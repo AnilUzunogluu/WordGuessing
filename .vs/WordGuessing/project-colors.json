@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "940db50a-3d7b-4f5f-bbb6-de93b0d2c835": {
+      "ProjectGuid": "940db50a-3d7b-4f5f-bbb6-de93b0d2c835",
+      "DisplayName": "WordGuessing",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,0 +1,15 @@
+D:\AllCodingStuff\Projects\CSharpCourse\ConsoleApp1\bin\Debug\net5.0\Hangman.exe
+D:\AllCodingStuff\Projects\CSharpCourse\ConsoleApp1\bin\Debug\net5.0\Hangman.deps.json
+D:\AllCodingStuff\Projects\CSharpCourse\ConsoleApp1\bin\Debug\net5.0\Hangman.runtimeconfig.json
+D:\AllCodingStuff\Projects\CSharpCourse\ConsoleApp1\bin\Debug\net5.0\Hangman.runtimeconfig.dev.json
+D:\AllCodingStuff\Projects\CSharpCourse\ConsoleApp1\bin\Debug\net5.0\Hangman.dll
+D:\AllCodingStuff\Projects\CSharpCourse\ConsoleApp1\bin\Debug\net5.0\ref\Hangman.dll
+D:\AllCodingStuff\Projects\CSharpCourse\ConsoleApp1\bin\Debug\net5.0\Hangman.pdb
+D:\AllCodingStuff\Projects\CSharpCourse\ConsoleApp1\obj\Debug\net5.0\Hangman.GeneratedMSBuildEditorConfig.editorconfig
+D:\AllCodingStuff\Projects\CSharpCourse\ConsoleApp1\obj\Debug\net5.0\Hangman.AssemblyInfoInputs.cache
+D:\AllCodingStuff\Projects\CSharpCourse\ConsoleApp1\obj\Debug\net5.0\Hangman.AssemblyInfo.cs
+D:\AllCodingStuff\Projects\CSharpCourse\ConsoleApp1\obj\Debug\net5.0\Hangman.csproj.CoreCompileInputs.cache
+D:\AllCodingStuff\Projects\CSharpCourse\ConsoleApp1\obj\Debug\net5.0\Hangman.dll
+D:\AllCodingStuff\Projects\CSharpCourse\ConsoleApp1\obj\Debug\net5.0\ref\Hangman.dll
+D:\AllCodingStuff\Projects\CSharpCourse\ConsoleApp1\obj\Debug\net5.0\Hangman.pdb
+D:\AllCodingStuff\Projects\CSharpCourse\ConsoleApp1\obj\Debug\net5.0\Hangman.genruntimeconfig.cache
