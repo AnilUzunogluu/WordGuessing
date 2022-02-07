@@ -28,7 +28,7 @@ namespace ConsoleApp1
                     int counter = 0;
                     while (hiddenWord.Contains("*") && counter < 10)
                     {
-                        Console.WriteLine("Word: {0}", hiddenWord);
+                        Console.WriteLine($"Word: {hiddenWord}");
                         Console.Write("Please enter a letter >> ");
                         char guess = char.Parse(Console.ReadLine());
                         counter++;
@@ -43,22 +43,22 @@ namespace ConsoleApp1
                                 }
                             }
                             Console.ForegroundColor = ConsoleColor.Green;
-                            Console.WriteLine("The letter {0} is in the word!", guess);
+                            Console.WriteLine($"The letter {guess} is in the word!");
                         }
                         else
                         {
                             Console.ForegroundColor = ConsoleColor.Red;
-                            Console.WriteLine("The word does NOT contain the letter {0}", guess);
+                            Console.WriteLine($"The word does NOT contain the letter {guess}");
                         }
                         Console.ResetColor();
                     }
                     if (counter>= 10 && hiddenWord.Contains("*"))
                     {
-                        Console.WriteLine("\nSorry. You have lost the game. The word was {0}\n", selectedWord);
+                        Console.WriteLine($"\nSorry. You have lost the game. The word was {selectedWord}\n");
                     }
                     else
                     {
-                        Console.WriteLine("\nCongratulations! You won! The word was {0}\n", selectedWord);
+                        Console.WriteLine($"\nCongratulations! You won! The word was {selectedWord}\n");
                     }
                 }
                 else if (play == "1")
